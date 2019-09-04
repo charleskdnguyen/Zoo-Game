@@ -1,0 +1,13 @@
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.InfoAnimal.resources
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.InfoVisiteur.resources
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.Properties.Resources.resources
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\bin\Debug\TP2.exe.config
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\bin\Debug\TP2.exe
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\bin\Debug\TP2.pdb
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.exe
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.pdb
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.JeuZoo.resources
+E:\School\2018\Hiver 2018\Graphique\Travaux\TP2\TP2\TP2\obj\Debug\TP2.Menu.resources
